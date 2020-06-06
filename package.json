@@ -1,0 +1,23 @@
+{
+  "name": "neogm",
+  "version": "0.0.1",
+  "description": "Neo4j OGM for Typescript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DouglasGabr/neogm.git"
+  },
+  "keywords": [
+    "neo4j",
+    "ogm"
+  ],
+  "author": "Douglas Francisco Gabriel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DouglasGabr/neogm/issues"
+  },
+  "homepage": "https://github.com/DouglasGabr/neogm#readme"
+}
